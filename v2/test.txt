@@ -1,0 +1,9 @@
+a
+ls -al
+3
+a
+echo hi im paul&
+0
+1
+4
+0

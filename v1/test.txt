@@ -1,0 +1,11 @@
+a
+ls -al
+3
+a
+echo hi im paul
+0
+1
+2
+-al
+/var
+0
